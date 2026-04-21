@@ -1,0 +1,4 @@
+import torch
+
+data = torch.load("C:/Users/vashn/OneDrive/Desktop/pcl_new_working/New folder/shrimp_detection/dataset/best_model.pt")
+print(type(data))
